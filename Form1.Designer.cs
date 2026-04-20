@@ -1,6 +1,6 @@
 ﻿namespace CK_QLKS
 {
-    partial class Form1
+    partial class FrmMain
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,27 +29,27 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
-            panel2 = new Panel();
-            groupBox1 = new GroupBox();
-            btnPhong = new Button();
-            groupBox2 = new GroupBox();
-            groupBox3 = new GroupBox();
-            panel4 = new Panel();
-            groupBox4 = new GroupBox();
-            groupBox5 = new GroupBox();
             groupBox6 = new GroupBox();
-            btnOnlineOrder = new Button();
-            btnQuanLyPhong = new Button();
-            btnReport = new Button();
-            btnReturn = new Button();
-            btnClossingAccount = new Button();
+            groupBox5 = new GroupBox();
+            groupBox4 = new GroupBox();
+            panel2 = new Panel();
+            groupBox3 = new GroupBox();
             btnLogout = new Button();
+            btnClossingAccount = new Button();
+            groupBox2 = new GroupBox();
+            btnReturn = new Button();
+            btnReport = new Button();
+            btnQuanLyPhong = new Button();
+            groupBox1 = new GroupBox();
             btnKhangHang = new Button();
+            btnOnlineOrder = new Button();
+            btnPhong = new Button();
+            pnlContainer = new Panel();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
-            groupBox1.SuspendLayout();
-            groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
+            groupBox2.SuspendLayout();
+            groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
@@ -64,6 +64,37 @@
             panel1.Size = new Size(941, 79);
             panel1.TabIndex = 0;
             // 
+            // groupBox6
+            // 
+            groupBox6.Dock = DockStyle.Fill;
+            groupBox6.Location = new Point(250, 0);
+            groupBox6.Name = "groupBox6";
+            groupBox6.Size = new Size(346, 79);
+            groupBox6.TabIndex = 2;
+            groupBox6.TabStop = false;
+            groupBox6.Text = "groupBox6";
+            // 
+            // groupBox5
+            // 
+            groupBox5.Dock = DockStyle.Right;
+            groupBox5.Location = new Point(596, 0);
+            groupBox5.Name = "groupBox5";
+            groupBox5.Size = new Size(345, 79);
+            groupBox5.TabIndex = 1;
+            groupBox5.TabStop = false;
+            groupBox5.Text = "groupBox5";
+            // 
+            // groupBox4
+            // 
+            groupBox4.BackColor = SystemColors.InactiveCaption;
+            groupBox4.Dock = DockStyle.Left;
+            groupBox4.Location = new Point(0, 0);
+            groupBox4.Name = "groupBox4";
+            groupBox4.Size = new Size(250, 79);
+            groupBox4.TabIndex = 0;
+            groupBox4.TabStop = false;
+            groupBox4.Text = "groupBox4";
+            // 
             // panel2
             // 
             panel2.BackColor = SystemColors.ButtonFace;
@@ -76,28 +107,35 @@
             panel2.Size = new Size(250, 414);
             panel2.TabIndex = 1;
             // 
-            // groupBox1
+            // groupBox3
             // 
-            groupBox1.Controls.Add(btnKhangHang);
-            groupBox1.Controls.Add(btnOnlineOrder);
-            groupBox1.Controls.Add(btnPhong);
-            groupBox1.Dock = DockStyle.Top;
-            groupBox1.Location = new Point(0, 0);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(250, 144);
-            groupBox1.TabIndex = 0;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "OPEN";
+            groupBox3.Controls.Add(btnLogout);
+            groupBox3.Controls.Add(btnClossingAccount);
+            groupBox3.Dock = DockStyle.Top;
+            groupBox3.Location = new Point(0, 284);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(250, 105);
+            groupBox3.TabIndex = 2;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "CLOSE";
             // 
-            // btnPhong
+            // btnLogout
             // 
-            btnPhong.Location = new Point(12, 26);
-            btnPhong.Name = "btnPhong";
-            btnPhong.Size = new Size(217, 31);
-            btnPhong.TabIndex = 0;
-            btnPhong.Text = "ORDER PHÒNG";
-            btnPhong.UseVisualStyleBackColor = true;
-            
+            btnLogout.Location = new Point(12, 63);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new Size(217, 31);
+            btnLogout.TabIndex = 4;
+            btnLogout.Text = "LOGOUT";
+            btnLogout.UseVisualStyleBackColor = true;
+            // 
+            // btnClossingAccount
+            // 
+            btnClossingAccount.Location = new Point(12, 26);
+            btnClossingAccount.Name = "btnClossingAccount";
+            btnClossingAccount.Size = new Size(217, 31);
+            btnClossingAccount.TabIndex = 3;
+            btnClossingAccount.Text = "CLOSSING ACCOUNT";
+            btnClossingAccount.UseVisualStyleBackColor = true;
             // 
             // groupBox2
             // 
@@ -112,74 +150,14 @@
             groupBox2.TabStop = false;
             groupBox2.Text = "MANAGER";
             // 
-            // groupBox3
+            // btnReturn
             // 
-            groupBox3.Controls.Add(btnLogout);
-            groupBox3.Controls.Add(btnClossingAccount);
-            groupBox3.Dock = DockStyle.Top;
-            groupBox3.Location = new Point(0, 284);
-            groupBox3.Name = "groupBox3";
-            groupBox3.Size = new Size(250, 105);
-            groupBox3.TabIndex = 2;
-            groupBox3.TabStop = false;
-            groupBox3.Text = "CLOSE";
-            // 
-            // panel4
-            // 
-            panel4.Dock = DockStyle.Fill;
-            panel4.Location = new Point(250, 79);
-            panel4.Name = "panel4";
-            panel4.Size = new Size(691, 414);
-            panel4.TabIndex = 3;
-            // 
-            // groupBox4
-            // 
-            groupBox4.BackColor = SystemColors.InactiveCaption;
-            groupBox4.Dock = DockStyle.Left;
-            groupBox4.Location = new Point(0, 0);
-            groupBox4.Name = "groupBox4";
-            groupBox4.Size = new Size(250, 79);
-            groupBox4.TabIndex = 0;
-            groupBox4.TabStop = false;
-            groupBox4.Text = "groupBox4";
-            // 
-            // groupBox5
-            // 
-            groupBox5.Dock = DockStyle.Right;
-            groupBox5.Location = new Point(596, 0);
-            groupBox5.Name = "groupBox5";
-            groupBox5.Size = new Size(345, 79);
-            groupBox5.TabIndex = 1;
-            groupBox5.TabStop = false;
-            groupBox5.Text = "groupBox5";
-            // 
-            // groupBox6
-            // 
-            groupBox6.Dock = DockStyle.Fill;
-            groupBox6.Location = new Point(250, 0);
-            groupBox6.Name = "groupBox6";
-            groupBox6.Size = new Size(346, 79);
-            groupBox6.TabIndex = 2;
-            groupBox6.TabStop = false;
-            groupBox6.Text = "groupBox6";
-            // 
-            // btnOnlineOrder
-            // 
-            btnOnlineOrder.Location = new Point(12, 63);
-            btnOnlineOrder.Name = "btnOnlineOrder";
-            btnOnlineOrder.Size = new Size(217, 31);
-            btnOnlineOrder.TabIndex = 1;
-            btnOnlineOrder.Text = "ONLINE ORDER";
-            btnOnlineOrder.UseVisualStyleBackColor = true;
-            // 
-            // btnQuanLyPhong
-            // 
-            btnQuanLyPhong.Location = new Point(12, 26);
-            btnQuanLyPhong.Name = "btnQuanLyPhong";
-            btnQuanLyPhong.Size = new Size(217, 31);
-            btnQuanLyPhong.TabIndex = 1;
-            btnQuanLyPhong.Text = "QUẢN LÝ PHÒNG";
-            btnQuanLyPhong.UseVisualStyleBackColor = true;
+            btnReturn.Location = new Point(12, 100);
+            btnReturn.Name = "btnReturn";
+            btnReturn.Size = new Size(217, 31);
+            btnReturn.TabIndex = 1;
+            btnReturn.Text = "RETURN";
+            btnReturn.UseVisualStyleBackColor = true;
             // 
             // btnReport
             // 
@@ -190,32 +168,28 @@
             btnReport.Text = "REPORT";
             btnReport.UseVisualStyleBackColor = true;
             // 
-            // btnReturn
+            // btnQuanLyPhong
             // 
-            btnReturn.Location = new Point(12, 100);
-            btnReturn.Name = "btnReturn";
-            btnReturn.Size = new Size(217, 31);
-            btnReturn.TabIndex = 1;
-            btnReturn.Text = "RETURN";
-            btnReturn.UseVisualStyleBackColor = true;
+            btnQuanLyPhong.Location = new Point(12, 26);
+            btnQuanLyPhong.Name = "btnQuanLyPhong";
+            btnQuanLyPhong.Size = new Size(217, 31);
+            btnQuanLyPhong.TabIndex = 1;
+            btnQuanLyPhong.Text = "QUẢN LÝ PHÒNG";
+            btnQuanLyPhong.UseVisualStyleBackColor = true;
+            btnQuanLyPhong.Click += FrmMain_Load;
             // 
-            // btnClossingAccount
+            // groupBox1
             // 
-            btnClossingAccount.Location = new Point(12, 26);
-            btnClossingAccount.Name = "btnClossingAccount";
-            btnClossingAccount.Size = new Size(217, 31);
-            btnClossingAccount.TabIndex = 3;
-            btnClossingAccount.Text = "CLOSSING ACCOUNT";
-            btnClossingAccount.UseVisualStyleBackColor = true;
-            // 
-            // btnLogout
-            // 
-            btnLogout.Location = new Point(12, 63);
-            btnLogout.Name = "btnLogout";
-            btnLogout.Size = new Size(217, 31);
-            btnLogout.TabIndex = 4;
-            btnLogout.Text = "LOGOUT";
-            btnLogout.UseVisualStyleBackColor = true;
+            groupBox1.Controls.Add(btnKhangHang);
+            groupBox1.Controls.Add(btnOnlineOrder);
+            groupBox1.Controls.Add(btnPhong);
+            groupBox1.Dock = DockStyle.Top;
+            groupBox1.Location = new Point(0, 0);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(250, 144);
+            groupBox1.TabIndex = 0;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "OPEN";
             // 
             // btnKhangHang
             // 
@@ -226,22 +200,51 @@
             btnKhangHang.Text = "KHÁCH HÀNG";
             btnKhangHang.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // btnOnlineOrder
+            // 
+            btnOnlineOrder.Location = new Point(12, 63);
+            btnOnlineOrder.Name = "btnOnlineOrder";
+            btnOnlineOrder.Size = new Size(217, 31);
+            btnOnlineOrder.TabIndex = 1;
+            btnOnlineOrder.Text = "ONLINE ORDER";
+            btnOnlineOrder.UseVisualStyleBackColor = true;
+            // 
+            // btnPhong
+            // 
+            btnPhong.Location = new Point(12, 26);
+            btnPhong.Name = "btnPhong";
+            btnPhong.Size = new Size(217, 31);
+            btnPhong.TabIndex = 0;
+            btnPhong.Text = "ORDER PHÒNG";
+            btnPhong.UseVisualStyleBackColor = true;
+            // 
+            // pnlContainer
+            // 
+            pnlContainer.Dock = DockStyle.Fill;
+            pnlContainer.Location = new Point(250, 79);
+            pnlContainer.Name = "pnlContainer";
+            pnlContainer.Size = new Size(691, 414);
+            pnlContainer.TabIndex = 3;
+            pnlContainer.Visible = false;
+            pnlContainer.Click += pnGiaoDienChinh_Click;
+            // 
+            // FrmMain
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(941, 493);
-            Controls.Add(panel4);
+            Controls.Add(pnlContainer);
             Controls.Add(panel2);
             Controls.Add(panel1);
-            Name = "Form1";
+            Name = "FrmMain";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Phần mềm Quản lý Khách sạn";
+            Load += FrmMain_Load;
             panel1.ResumeLayout(false);
             panel2.ResumeLayout(false);
-            groupBox1.ResumeLayout(false);
-            groupBox2.ResumeLayout(false);
             groupBox3.ResumeLayout(false);
+            groupBox2.ResumeLayout(false);
+            groupBox1.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -257,7 +260,7 @@
         private GroupBox groupBox6;
         private GroupBox groupBox5;
         private GroupBox groupBox4;
-        private Panel panel4;
+        private Panel pnlContainer;
         private Button btnLogout;
         private Button btnClossingAccount;
         private Button btnReturn;

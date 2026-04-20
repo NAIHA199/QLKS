@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\LTGDUD\\CK_QLKS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79BD2285-CD71-328D-7A0B-934F2A4DDBA7}|CK_QLKS.csproj|d:\\ltgdud\\ck_qlks\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD2285-CD71-328D-7A0B-934F2A4DDBA7}|CK_QLKS.csproj|solutionrelative:ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79BD2285-CD71-328D-7A0B-934F2A4DDBA7}|CK_QLKS.csproj|d:\\ltgdud\\ck_qlks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79BD2285-CD71-328D-7A0B-934F2A4DDBA7}|CK_QLKS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD2285-CD71-328D-7A0B-934F2A4DDBA7}|CK_QLKS.csproj|d:\\ltgdud\\ck_qlks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD2285-CD71-328D-7A0B-934F2A4DDBA7}|CK_QLKS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,43 +17,20 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\LTGDUD\\CK_QLKS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\LTGDUD\\CK_QLKS\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T20:04:58.884Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-04-20T11:13:34.628Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KetNoi.cs",
-              "DocumentMoniker": "D:\\LTGDUD\\CK_QLKS\\KetNoi.cs",
-              "RelativeDocumentMoniker": "KetNoi.cs",
-              "ToolTip": "D:\\LTGDUD\\CK_QLKS\\KetNoi.cs",
-              "RelativeToolTip": "KetNoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T08:45:59.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\LTGDUD\\CK_QLKS\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\LTGDUD\\CK_QLKS\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T08:00:12.84Z",
-              "EditorCaption": ""
             }
           ]
         }

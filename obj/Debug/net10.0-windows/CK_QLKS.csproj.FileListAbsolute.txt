@@ -7,8 +7,6 @@ D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.Assemb
 D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.AssemblyInfo.cs
 D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.CoreCompileInputs.cache
 D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.AssemblyReference.cache
-D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.Form1.resources
-D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.ucLoaiPhong.resources
 D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.GenerateResource.cache
 D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.GeneratedMSBuildEditorConfig.editorconfig
 D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.AssemblyInfoInputs.cache
@@ -68,3 +66,5 @@ D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.pdb
 D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.genruntimeconfig.cache
 D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\ref\CK_QLKS.dll
 D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.sourcelink.json
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.FrmMain.resources
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.QLPhong.resources
