@@ -2,6 +2,8 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
+using Microsoft.SqlServer.Server;
+
 
 namespace QuanLyKhachSan_LTUD
 {
@@ -15,8 +17,6 @@ namespace QuanLyKhachSan_LTUD
         {
             conn = new SqlConnection(conStr);
         }
-
-        // Hàm 1: Dùng để chạy câu lệnh SELECT và trả về một bảng dữ liệu (DataTable)
         public DataTable LayDuLieu(string sql)
         {
             DataTable dt = new DataTable();
