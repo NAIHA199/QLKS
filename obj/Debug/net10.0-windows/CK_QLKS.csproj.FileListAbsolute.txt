@@ -1,0 +1,70 @@
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.AssemblyReference.cache
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.Form1.resources
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.ucLoaiPhong.resources
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.GenerateResource.cache
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.AssemblyInfoInputs.cache
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.AssemblyInfo.cs
+D:\LTGDUD\Đồ Án Cuối Kỳ\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.CoreCompileInputs.cache
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.AssemblyReference.cache
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.Form1.resources
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.ucLoaiPhong.resources
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.GenerateResource.cache
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.AssemblyInfoInputs.cache
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.AssemblyInfo.cs
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.CoreCompileInputs.cache
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\CK_QLKS.exe
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\CK_QLKS.deps.json
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\CK_QLKS.runtimeconfig.json
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\CK_QLKS.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\CK_QLKS.pdb
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\LTGDUD\CK_QLKS\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.csproj.Up2Date
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.dll
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\refint\CK_QLKS.dll
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.pdb
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.genruntimeconfig.cache
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\ref\CK_QLKS.dll
+D:\LTGDUD\CK_QLKS\obj\Debug\net10.0-windows\CK_QLKS.sourcelink.json
